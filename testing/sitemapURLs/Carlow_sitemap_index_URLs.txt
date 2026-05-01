@@ -1,0 +1,19 @@
+
+# Errors encountered:
+HTTP 403 for https://www.carlow.edu/post-sitemap.xml
+HTTP 403 for https://www.carlow.edu/page-sitemap.xml
+HTTP 403 for https://www.carlow.edu/wpdmpro-sitemap.xml
+HTTP 403 for https://www.carlow.edu/faculty-sitemap.xml
+HTTP 403 for https://www.carlow.edu/tribe_venue-sitemap.xml
+HTTP 403 for https://www.carlow.edu/tribe_organizer-sitemap.xml
+HTTP 403 for https://www.carlow.edu/tribe_events-sitemap.xml
+HTTP 403 for https://www.carlow.edu/category-sitemap.xml
+HTTP 403 for https://www.carlow.edu/location-sitemap.xml
+HTTP 403 for https://www.carlow.edu/degree-type-sitemap.xml
+HTTP 403 for https://www.carlow.edu/subject-sitemap.xml
+HTTP 403 for https://www.carlow.edu/degree-earned-sitemap.xml
+HTTP 403 for https://www.carlow.edu/search-category-sitemap.xml
+HTTP 403 for https://www.carlow.edu/department-sitemap.xml
+HTTP 403 for https://www.carlow.edu/department_type-sitemap.xml
+HTTP 403 for https://www.carlow.edu/tribe_events_cat-sitemap.xml
+HTTP 403 for https://www.carlow.edu/author-sitemap.xml

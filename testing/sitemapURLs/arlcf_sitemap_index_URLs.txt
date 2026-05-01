@@ -1,0 +1,12 @@
+
+# Errors encountered:
+Sitemap error for https://www.arlcf.org/page-sitemap.xml: XML Parse Error: XML or text declaration not at start of entity: line 5, column 0
+Sitemap error for https://www.arlcf.org/attachment-sitemap.xml: XML Parse Error: XML or text declaration not at start of entity: line 5, column 0
+Sitemap error for https://www.arlcf.org/attachment-sitemap2.xml: XML Parse Error: XML or text declaration not at start of entity: line 5, column 0
+Sitemap error for https://www.arlcf.org/nonprofit-sitemap.xml: XML Parse Error: XML or text declaration not at start of entity: line 5, column 0
+Sitemap error for https://www.arlcf.org/category-sitemap.xml: XML Parse Error: XML or text declaration not at start of entity: line 5, column 0
+Sitemap error for https://www.arlcf.org/population-served-sitemap.xml: XML Parse Error: XML or text declaration not at start of entity: line 5, column 0
+Sitemap error for https://www.arlcf.org/type-of-work-sitemap.xml: XML Parse Error: XML or text declaration not at start of entity: line 5, column 0
+Sitemap error for https://www.arlcf.org/population-scope-sitemap.xml: XML Parse Error: XML or text declaration not at start of entity: line 5, column 0
+Sitemap error for https://www.arlcf.org/organization-leadership-sitemap.xml: XML Parse Error: XML or text declaration not at start of entity: line 5, column 0
+Sitemap error for https://www.arlcf.org/budget-size-sitemap.xml: XML Parse Error: XML or text declaration not at start of entity: line 5, column 0

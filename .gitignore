@@ -1,0 +1,20 @@
+# Python cache/artifacts
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+.pytest_cache/
+
+# Virtual environments (kept ignored even though you are not using one)
+.venv/
+venv/
+env/
+
+# OS/editor noise
+.DS_Store
+Thumbs.db
+.vscode/settings.json
+
+# Generated run outputs
+outputs/
+test_outputs/
