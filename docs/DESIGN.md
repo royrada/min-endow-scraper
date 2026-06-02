@@ -155,6 +155,14 @@ The following constants are loaded from inputs/parameters.txt
 -   minSet as set of text strings
 -   badSet as set of text strings
 
+### names.txt
+
+The names.txt file can be whatever the user wants it to be.  The version provided here was developed as follows:
+
+ - all 154,000 most frequently occurring last names from https://www.census.gov/topics/population/genealogy/data.html were downloaded
+ - Google's 10,000 most common English words were downloaded
+ - the Google words were removed from the Census names
+
 ## Inputs
 
 -   Read list of URLs from input/URLs.txt (one URL per line).
