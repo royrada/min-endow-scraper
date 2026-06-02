@@ -9,4 +9,4 @@ AllowedMins = {'$5,000', '$10,000', '$15,000', '$20,000', '$25,000', '$30,000', 
 creationSet = {'agree', 'award', 'charit', 'create', 'donor', 'endow', 'establish', 'fellow', 'fund', 'give', 'giving', 'gift', 'legacy', 'paid'}
 fundSet = {'fellowship', 'field of interest', 'scholar'}
 minSet = {'at least', 'begin', 'initial', 'minim', 'or more', 'start'}
-badSet = {'award amount', 'grant seekers', 'loan', 'maximum',  'partial grant', 'tier'}
+badSet = {'adjusted gross income', 'annuit', 'application', 'applicant', 'award amount', 'borrowers', 'Charitable Lead Trust', 'Charitable Remainder Trust', 'deadline', 'grant recipient', 'grant seekers', 'have been granted', 'household income', 'income cap', 'loan', 'may apply', 'maximum', 'medal', 'not exceed', 'partial grant', 'personnel', 'proposal', 'salary', 'selection criteria', 'stipend', 'taxable income', 'taxpayer', 'tier', 'up to', 'will award', 'winner', 'won'}
